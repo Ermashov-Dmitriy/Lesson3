@@ -1,0 +1,177 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'ru' Physical Memory: 12271 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Ермашов/Desktop/Lesson3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49972
+Successfully changed project path to: C:/Users/Ермашов/Desktop/Lesson3
+C:/Users/Ермашов/Desktop/Lesson3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Ермашов/Desktop/Lesson3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6800 Series (ID=0x6738)
+    Vendor:   
+    VRAM:     1011 MB
+    Driver:   15.301.1901.0
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004433 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.992 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001329 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.547 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.6 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 3.559900 ms (FindLiveObjects: 0.232700 ms CreateObjectMapping: 0.097200 ms MarkObjects: 3.029800 ms  DeleteObjects: 0.197200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefab/Enemy.prefab
+  artifactKey: Guid(518b3b12cd414f143916eaf9cf6d7bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Enemy.prefab using Guid(518b3b12cd414f143916eaf9cf6d7bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e881e120c9965fc82e5b85e2a969cd76') in 0.278447 seconds
+  Import took 0.283541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Prefab/Capsule.prefab
+  artifactKey: Guid(41af3b8a7bf9ee54e83d94dc9547b849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Capsule.prefab using Guid(41af3b8a7bf9ee54e83d94dc9547b849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9350a5689ff3a434c75035c3cca99d') in 0.044683 seconds
+  Import took 0.048685 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001560 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.132 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 3.100300 ms (FindLiveObjects: 0.230600 ms CreateObjectMapping: 0.085400 ms MarkObjects: 2.679900 ms  DeleteObjects: 0.101300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 386.751592 seconds.
+  path: Assets/Script/waypoints.cs
+  artifactKey: Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/waypoints.cs using Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076f0bd80f50e20dd902f0eee72fb37e') in 0.036554 seconds
+  Import took 0.041700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015301 seconds.
+  path: Assets/Script/waypoints.cs
+  artifactKey: Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/waypoints.cs using Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076f0bd80f50e20dd902f0eee72fb37e') in 0.005671 seconds
+  Import took 0.009715 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 21.775 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 13.707000 ms (FindLiveObjects: 0.655200 ms CreateObjectMapping: 0.202600 ms MarkObjects: 10.835800 ms  DeleteObjects: 0.196300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.157718 seconds.
+  path: Assets/Script/waypoints.cs
+  artifactKey: Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/waypoints.cs using Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ca33d120896505566c84fb4c71699f') in 0.007872 seconds
+  Import took 0.012398 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 3.257500 ms (FindLiveObjects: 0.235700 ms CreateObjectMapping: 0.087200 ms MarkObjects: 2.807100 ms  DeleteObjects: 0.123700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.360869 seconds.
+  path: Assets/Script/waypoints.cs
+  artifactKey: Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/waypoints.cs using Guid(66dad3794cf602646b94168be70ce1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45feb85ba6157637f91d69531911e8e8') in 0.019218 seconds
+  Import took 0.024584 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
