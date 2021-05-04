@@ -58,14 +58,10 @@
   <ItemGroup>
     <Compile Include="Assets\Script\mouseLook.cs" />
     <Compile Include="Assets\Script\test.cs" />
+    <Compile Include="Assets\Script\quaternion.cs" />
     <Compile Include="Assets\Script\mine.cs" />
     <Compile Include="Assets\Script\Move_Player.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Script\damage.cs" />
-    <Compile Include="Assets\Scripts\GameEnding.cs" />
-    <Compile Include="Assets\Scripts\Observer.cs" />
-    <Compile Include="Assets\Scripts\LightFlicker.cs" />
-    <Compile Include="Assets\Script\quaternion.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

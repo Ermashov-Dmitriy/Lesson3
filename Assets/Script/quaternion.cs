@@ -7,8 +7,6 @@ public class quaternion : MonoBehaviour
     [SerializeField]
     private Transform _Quaternion; 
 
-    [SerializeField]
-    private float _Speed = 1;
 
 
     private void OnTriggerEnter(Collider other)
